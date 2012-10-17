@@ -1,5 +1,5 @@
-dreamweaver-cs6-twilight
-========================
+dreamweaver-cs6-dark
+====================
 
 Dark Code Coloring based on Notepad++ Twilight theme
 
